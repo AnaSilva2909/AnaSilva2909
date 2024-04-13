@@ -6,6 +6,10 @@
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaSilva2909&show_icons=true&theme=synthwave)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSilva2909&layout=compact)
+
+
 ## Tecnologias
 <div style="display: inline_block"><br/>
 <img  align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
