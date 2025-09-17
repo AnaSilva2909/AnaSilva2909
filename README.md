@@ -19,7 +19,3 @@
 <img align="center" alt="cucumber" src="https://img.shields.io/badge/Cucumber-2C5F2D?style=for-the-badge&logo=cucumber&logoColor=white" />
 <img align="center" alt="robotframework" src="https://img.shields.io/badge/RobotFramework-00BCD4?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div><br/>
-
-
-Trilhando o caminho da paixão pela tecnologia. Estudando Java e imergindo nos fascinantes domínios da automação, abrangendo desde o Robot Framework, Selenium até os intricados testes de API e mobile. 
-
