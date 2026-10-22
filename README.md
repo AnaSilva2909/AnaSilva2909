@@ -1,6 +1,6 @@
 ### Olá Eu sou a Ana Silva 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ana-silva-281478176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-silva-281478176/)
 
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaSilva2909&show_icons=true&theme=synthwave)
