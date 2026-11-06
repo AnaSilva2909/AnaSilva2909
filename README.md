@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-silva-281478176/)
 
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaSilva2909&show_icons=true&theme=synthwave)
 
+![Ana GitHub stats](https://github-stats-extended.vercel.app/api?username=AnaSilva2909&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AnaSilva2909&layout=compact&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSilva2909&layout=compact)
 
 
 ## 🧪 Tecnologias e Ferramentas
